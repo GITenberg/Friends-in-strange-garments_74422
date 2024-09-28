@@ -8,9 +8,14 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '45789'
     url: http://www.gutenberg.org/2009/agents/45789
+covers:
+- cover_type: archival
+  image_path: 74422-h/images/coversmall.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74422#Friends-in-strange-garments
 gutenberg_issued: '2024-09-16'
 gutenberg_type: Text
 identifiers:
